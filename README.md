@@ -74,4 +74,4 @@ Actúa como una asesora financiera especializada en educación para jóvenes. Ex
 
 # Infografia NotebookLM:
 
-![]([https://i.pinimg.com/736x/d0/4d/31/d04d31f2cce4222443e099893059a28e.jpg](https://github.com/camilamantilla3132-debug/Documentacion-IA-Camila-Mantilla/blob/main/Crisis_Laboral_en_Catar_2022%20(1).png)
+![](https://github.com/camilamantilla3132-debug/Documentacion-IA-Camila-Mantilla/blob/main/Crisis_Laboral_en_Catar_2022%20(1).png)
